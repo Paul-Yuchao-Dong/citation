@@ -1,0 +1,13 @@
+---
+title: "citation"
+output: html_document
+bibliography: bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Test
+
+Trying to use citations. Bayesian workflow research as test. [@schadPrincipledBayesianWorkflow2019]
